@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    $("#nav-placeholder").load("/scripts/nav.html");
+    $("#nav-placeholder").load("/correlatedquantum/nav.html");
 });
